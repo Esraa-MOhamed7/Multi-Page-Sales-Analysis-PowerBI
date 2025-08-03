@@ -50,6 +50,6 @@ Here are visual representations of the dashboards included in the report:
 ![Tax Insights Dashboard](https://github.com/Esraa-MOhamed7/Multi-Page-Sales-Analysis-PowerBI/blob/main/tax_insights.png)
 
 ### Freight Analysis
-![Freight Analysis Dashboard](freight_analysis_snapshot.png)
+![Freight Analysis Dashboard](https://github.com/Esraa-MOhamed7/Multi-Page-Sales-Analysis-PowerBI/blob/main/freight_analysis.png)
 
 
