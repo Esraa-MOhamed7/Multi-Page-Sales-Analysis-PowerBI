@@ -44,7 +44,7 @@ Here are visual representations of the dashboards included in the report:
 ![Navigator Dashboard](https://github.com/Esraa-MOhamed7/Multi-Page-Sales-Analysis-PowerBI/blob/main/navigator_dashboard.png)
 
 ### Orders Overview
-![Orders Overview Dashboard](orders_overview_snapshot.png)
+![Orders Overview Dashboard](https://github.com/Esraa-MOhamed7/Multi-Page-Sales-Analysis-PowerBI/blob/main/orders_overview.png)
 
 ### Tax Insights
 ![Tax Insights Dashboard](tax_insights_snapshot.png)
