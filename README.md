@@ -41,7 +41,7 @@ The analysis across all four dashboards led to the following actionable insights
 Here are visual representations of the dashboards included in the report:
 
 ### Navigator Dashboard
-![Navigator Dashboard](navigator_dashboard_snapshot.png)
+![Navigator Dashboard](https://github.com/Esraa-MOhamed7/Multi-Page-Sales-Analysis-PowerBI/blob/main/navigator_dashboard.png)
 
 ### Orders Overview
 ![Orders Overview Dashboard](orders_overview_snapshot.png)
